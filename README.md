@@ -1,0 +1,1 @@
+GIT Workshops demo project
