@@ -1,0 +1,18 @@
+#mainMenu {
+    padding: 1em;
+}
+#mainMenu a {
+    color: inherit;
+}
+.skyblue {
+    color: skyblue;
+}
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}
+.blue {
+    color: blue;
+}
